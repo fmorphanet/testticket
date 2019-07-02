@@ -20,6 +20,7 @@ require('result2.php');
 //Le fichier result.txt contient les réponses à l'exercice
 //Le fichier Backup_02-07-2019_testticket.sql est un backup effectué après remplissage
 //Le fichier bulk.sql est un essai non abouti de passer par 'LOAD DATA LOCAL' pour le remplissage des données
+//L'erreur ligne 57501 du fichier 'tickets_appels_201202' a été remplacé par '00:00:00' faute de plus de renseignement
 
 //Temps de développement : 4h en prenant en compte l'ensemble des essais pour le remplissage sql
 //Script respectant la limite de 128MB memory_usage
